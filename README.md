@@ -24,6 +24,7 @@ Add `-g` to install globally instead of into the current project.
 | Skill | What it's for |
 | --- | --- |
 | [`ux-guidelines`](skills/ux-guidelines/SKILL.md) | The four screen states (loading, error, empty, success), graceful degradation, action feedback, and forgiving forms. Behavioral UX — the un-happy paths generated code skips. |
+| [`qa-guidelines`](skills/qa-guidelines/SKILL.md) | Human-simulating end-to-end QA: an independent subagent drives the real surface (web, mobile, desktop, CLI) through the full branching tree of user flows instead of trusting the tests the implementer wrote. For AI products it reads answers and traces — never keyword or regex checks. |
 
 ## Layout
 
